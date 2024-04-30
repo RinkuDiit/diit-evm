@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71cbdc3a.css",
+    "main.js": "/static/js/main.14a53bc3.js",
+    "static/js/453.ef457d4b.chunk.js": "/static/js/453.ef457d4b.chunk.js",
+    "static/media/AAP_Symbol.png": "/static/media/AAP_Symbol.c01d52da46653807a739.png",
+    "static/media/beep-01a.wav": "/static/media/beep-01a.b50a4155fdc2e41438c6.wav",
+    "static/media/pngegg.png": "/static/media/pngegg.0e389d8c8cfb8bec55e6.png",
+    "static/media/pngegg (1).png": "/static/media/pngegg (1).fadf289eed1e41abaf24.png",
+    "static/media/1200px-NOTA_Option_Logo.svg.png": "/static/media/1200px-NOTA_Option_Logo.svg.c0372a7e0cdab6d8b9b5.png",
+    "static/media/CPIM_election_symbol.png": "/static/media/CPIM_election_symbol.5cc50f6c40599fbff437.png",
+    "index.html": "/index.html",
+    "main.71cbdc3a.css.map": "/static/css/main.71cbdc3a.css.map",
+    "main.14a53bc3.js.map": "/static/js/main.14a53bc3.js.map",
+    "453.ef457d4b.chunk.js.map": "/static/js/453.ef457d4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71cbdc3a.css",
+    "static/js/main.14a53bc3.js"
+  ]
+}

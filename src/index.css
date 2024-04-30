@@ -1,0 +1,256 @@
+.evm{
+  width:40% ;
+  margin: 20px 20px;
+  height: 700px;
+  /* border: solid 1px black; */
+  padding: 30px;
+  float: left;
+  background-color: lightyellow;
+  box-shadow: inset 0px 0px 8px 1px #eacb90;
+  /* display: flex; */
+}
+
+
+.partys{
+  width: 95%;
+  height: 7%;
+  font-size: 15px;
+}
+.party{
+  width: 59%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+}
+
+.votingbutton{
+  width: 40%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+  position: relative;
+
+}
+.imgparty{
+  width: 72%;
+  height: 84%;
+}
+h3{
+  width: 100%;
+  margin: 14px 4px;
+}
+.logo{
+  width: 19%;
+  height: 100%;
+  float: left;
+
+}
+.name{
+  width: 78%;
+  height: 100%;
+    float: left;
+}
+
+button{
+  width: 36%;
+  height: 66%;
+  background-color: blue;
+  border: none;
+  border-radius: 30px;
+  position: absolute;
+  box-shadow: inset 0px 0px 8px 1px #2c2923;
+  margin: 4% 33%;
+
+}
+.voteconfarm{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #c31e1e;
+  position: absolute;
+  margin: 6% 10%;
+}
+.result{
+  width: 35%;
+  height: auto;
+  padding: 20px;
+  border: solid;
+  float: left;
+}
+
+.resultelection{
+  width: 100%;
+  height: 50px;
+  border: solid 1px ;
+}
+
+.allresult{
+  width: 97%;
+  height: auto;
+  margin: 10px 0px;
+  border: solid 1px;
+  padding: 7px;
+}
+
+@media screen and (max-width: 480px) {
+  .evm {
+    width: 83%;
+    height: 600px;
+    margin: -15px -15px;
+}
+
+  .partys {
+    width: 133%;
+    height: 7%;
+    font-size: 8px;
+}
+
+button {
+  width: 45%;
+  height: 53%;
+  margin: 7px 38px;
+} 
+
+.party {
+  width: 54%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+}
+
+.votingbutton {
+  width: 28%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+  position: relative;
+}
+
+.voteconfarm {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #c31e1e;
+  position: absolute;
+  margin: 13% 10%;
+}
+
+.result {
+  width: 85%;
+  height: auto;
+  padding: 20px;
+  border: solid;
+  margin-top: 20px;
+}
+
+}
+
+/* @media screen and (min-width: 480px) {
+  .evm {
+    width: 50%;
+    height: 600px;
+    margin: -15px -15px;
+}
+
+  .partys {
+    width: 133%;
+    height: 7%;
+    font-size: 8px;
+}
+
+button {
+  width: 45%;
+  height: 53%;
+  margin: 7px 38px;
+} 
+
+.party {
+  width: 54%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+}
+
+.votingbutton {
+  width: 28%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+  position: relative;
+}
+
+.voteconfarm {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #c31e1e;
+  position: absolute;
+  margin: 13% 10%;
+}
+
+.result {
+  width: 85%;
+  height: auto;
+  padding: 20px;
+  border: solid;
+  margin-top: 20px;
+}
+
+} */
+
+@media screen and (max-width: 780px) {
+  .evm {
+    width: 83%;
+    height: 600px;
+    margin: -15px -15px;
+}
+
+  .partys {
+    width: 133%;
+    height: 7%;
+    font-size: 8px;
+}
+
+button {
+  width: 45%;
+  height: 53%;
+  margin: 7px 38px;
+} 
+
+.party {
+  width: 54%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+}
+
+.votingbutton {
+  width: 28%;
+  height: 100%;
+  float: left;
+  border: solid 1px black;
+  position: relative;
+}
+
+.voteconfarm {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #c31e1e;
+  position: absolute;
+  margin: 13% 10%;
+}
+
+.result {
+  width: 85%;
+  height: auto;
+  padding: 20px;
+  border: solid;
+  margin-top: 20px;
+}
+
+}
+
+
+
+
